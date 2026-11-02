@@ -6,7 +6,7 @@ Automation web untuk [Klik Indomaret](https://www.klikindomaret.com) **tanpa log
 
 ## 1. Skenario
 
-| No | Langkah | Method | Hasil yang diharapkan |
+| No | Langkah | Method | Expected Results |
 |----|---------|--------|-----------------------|
 | 1 | Akses `https://www.klikindomaret.com` | `step1OpenHomePage()` | Beranda terbuka, judul halaman memuat "Indomaret" |
 | 2 | Pilih meta kategori **Makanan** | `step2SelectMetaCategory()` | Menu/submenu kategori Makanan tampil |
